@@ -1,6 +1,5 @@
 #include <bits/stdc++.h>
 using namespace std;
-typedef long long int ll;
 
 int convert(char x){
     return x-'0';
